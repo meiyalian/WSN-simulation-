@@ -1,0 +1,1 @@
+the make file run the whole program with 41 nodes, will give a result for 41 nodes with a different number of iterations.
